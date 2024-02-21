@@ -1,0 +1,11 @@
+{
+  "Bot": {
+    "token": "MTIwOTY3NDQ5MjMwMTkzNDYyMw.GRJ2xg.NjV6if-AnjX9UFedibBt1HGLZSHz940_jXXo6c"
+  },
+  "Admins": {
+    "admin_ids": [845606993054269440, 896836612405731429]
+  },
+  "Channel": {
+    "allowed_channel_id": 1209673553323102289
+  }
+}

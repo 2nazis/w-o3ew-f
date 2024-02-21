@@ -1,0 +1,16 @@
+
+  {
+    "Bot": {
+      "token": "MTIwOTU5MzM3NTcxNjY3NTYyNA.G3A9Lm.kSGfzl2tq4wv4Ypp_xuZRdnvEGDq6xAvub00Rk"
+    },
+    "Admins": {
+      "admin_ids": [896836612405731429, 845606993054269440]
+    },
+    "Channel": {
+      "allowed_channel_id": 1209647934195372095
+    },
+    "Cooldown": {
+      "cooldown_minutes": 0
+    }
+  }
+  
